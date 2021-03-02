@@ -1,0 +1,3 @@
+﻿  UnitTest1.3OOP.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.3OOP\Lab1.3OOP\Fraction.cpp(37): warning C4715: 'Fraction::Init': not all control paths return a value
+  UnitTest1.3OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.3OOP\Debug\UnitTest1.3OOP.dll
